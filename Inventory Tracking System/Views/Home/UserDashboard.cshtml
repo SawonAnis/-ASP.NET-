@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "User Dashboard";
+}
+
+<h2>Welcome User</h2>
+<p>This is your dashboard where you can update stock and track shipments.</p>
+
+<a href="@Url.Action("UpdateStock", "Item")">Update Stock</a> |
+<a href="@Url.Action("TrackShipments", "Item")">Track Shipments</a> |
+<a href="@Url.Action("Logout", "Account")">Logout</a>
+
+
