@@ -1,0 +1,38 @@
+﻿@model LoginFormMvc.Models.user
+
+
+
+<div class="row justify-content-center">
+    <div class="col-md-3 col-md-offset-5">
+        <div style="border:5px black ridge;padding:10px;">
+            @using(Html.BeginForm("Index","Login",FormMethod.Post))
+            {
+                <table>
+                <h3 class="text-center mb-4">LOGIN</h3>
+                    <tr>
+                        <td>@Html.LabelFor(model=>model.username)</td>
+
+                        <td> @Html.TextBoxFor(model => model.username, new { @class = "form-control", placeholder = "Enter username" })
+                          @Html.ValidationMessageFor(model => model.username, "", new { @class = "text-danger" })</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(model => model.password)</td>
+                        <td>
+                            @Html.PasswordFor(model => model.password, new { @class = "form-control", placeholder = "Enter password" })
+                            @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+                            @ViewBag.ErrorMessage
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="submit" value="Login" name="login" class="btn btn-primary" />
+                        <br />
+                            <a href="/Login/Reset" class="btn btn-danger">Reset</a>
+                        </td>
+                    </tr>
+                </table>
+            }
+        </div>
+    </div>
+</div>
