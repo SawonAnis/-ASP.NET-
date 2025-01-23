@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|c:\\users\\anis\\downloads\\webapi_crud\\webapi_crud\\views\\home\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|solutionrelative:webapi_crud\\views\\home\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|c:\\users\\anis\\downloads\\webapi_crud\\webapi_crud\\controllers\\crudapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|solutionrelative:webapi_crud\\controllers\\crudapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|c:\\users\\anis\\downloads\\webapi_crud\\webapi_crud\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|solutionrelative:webapi_crud\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|c:\\users\\anis\\downloads\\webapi_crud\\webapi_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|solutionrelative:webapi_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|c:\\users\\anis\\downloads\\webapi_crud\\webapi_crud\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|solutionrelative:webapi_crud\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|c:\\users\\anis\\downloads\\webapi_crud\\webapi_crud\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|solutionrelative:webapi_crud\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|c:\\users\\anis\\downloads\\webapi_crud\\webapi_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|solutionrelative:webapi_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|c:\\users\\anis\\downloads\\webapi_crud\\webapi_crud\\models\\employeedb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|solutionrelative:webapi_crud\\models\\employeedb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|c:\\users\\anis\\downloads\\webapi_crud\\webapi_crud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|solutionrelative:webapi_crud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|c:\\users\\anis\\downloads\\webapi_crud\\webapi_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B78266-F145-45E0-A432-034AF4C6D1C3}|WebApi_Crud\\WebApi_Crud.csproj|solutionrelative:webapi_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApi_Crud\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "WebApi_Crud\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T06:53:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Views\\Home\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebApi_Crud\\Views\\Home\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Views\\Home\\EmployeesController.cs",
+              "RelativeToolTip": "WebApi_Crud\\Views\\Home\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:52:13.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApi_Crud\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "WebApi_Crud\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T06:46:57.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApi_Crud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApi_Crud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T02:21:11.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApi_Crud\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApi_Crud\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:07:54.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrudApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Controllers\\CrudApiController.cs",
+              "RelativeDocumentMoniker": "WebApi_Crud\\Controllers\\CrudApiController.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Controllers\\CrudApiController.cs",
+              "RelativeToolTip": "WebApi_Crud\\Controllers\\CrudApiController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:58:44.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebApi_Crud\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebApi_Crud\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:57:13.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApi_Crud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApi_Crud\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:57:12.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApi_Crud\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApi_Crud\\Models\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:56:51.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeDB.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Models\\EmployeeDB.Context.cs",
+              "RelativeDocumentMoniker": "WebApi_Crud\\Models\\EmployeeDB.Context.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\WebApi_Crud\\WebApi_Crud\\Models\\EmployeeDB.Context.cs",
+              "RelativeToolTip": "WebApi_Crud\\Models\\EmployeeDB.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:56:23.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
