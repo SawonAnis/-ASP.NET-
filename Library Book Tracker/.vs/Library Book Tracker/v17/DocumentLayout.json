@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954A88-8163-4ED2-86FA-D0EA523517D3}|BLL\\BLL.csproj|C:\\Users\\Anis\\Downloads\\Library Book Tracker\\bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1954A88-8163-4ED2-86FA-D0EA523517D3}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954A88-8163-4ED2-86FA-D0EA523517D3}|BLL\\BLL.csproj|c:\\users\\anis\\downloads\\library book tracker\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1954A88-8163-4ED2-86FA-D0EA523517D3}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A31857-EDC5-4014-A011-E4A2A140024E}|Library Book Tracker\\Library Book Tracker.csproj|c:\\users\\anis\\downloads\\library book tracker\\library book tracker\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A31857-EDC5-4014-A011-E4A2A140024E}|Library Book Tracker\\Library Book Tracker.csproj|solutionrelative:library book tracker\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|C:\\Users\\Anis\\Downloads\\Library Book Tracker\\dal\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A31857-EDC5-4014-A011-E4A2A140024E}|Library Book Tracker\\Library Book Tracker.csproj|c:\\users\\anis\\downloads\\library book tracker\\library book tracker\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A31857-EDC5-4014-A011-E4A2A140024E}|Library Book Tracker\\Library Book Tracker.csproj|solutionrelative:library book tracker\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|C:\\Users\\Anis\\Downloads\\Library Book Tracker\\dal\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|solutionrelative:dal\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|c:\\users\\anis\\downloads\\library book tracker\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|C:\\Users\\Anis\\Downloads\\Library Book Tracker\\dal\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|solutionrelative:dal\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|c:\\users\\anis\\downloads\\library book tracker\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|c:\\users\\anis\\downloads\\library book tracker\\dal\\migrations\\202501211234455_initdb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501211234455_initdb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|c:\\users\\anis\\downloads\\library book tracker\\dal\\migrations\\202501201437243_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCFB393-C15B-4475-A92D-E72587F365D3}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501201437243_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954A88-8163-4ED2-86FA-D0EA523517D3}|BLL\\BLL.csproj|c:\\users\\anis\\downloads\\library book tracker\\bll\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1954A88-8163-4ED2-86FA-D0EA523517D3}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954A88-8163-4ED2-86FA-D0EA523517D3}|BLL\\BLL.csproj|c:\\users\\anis\\downloads\\library book tracker\\bll\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1954A88-8163-4ED2-86FA-D0EA523517D3}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A31857-EDC5-4014-A011-E4A2A140024E}|Library Book Tracker\\Library Book Tracker.csproj|C:\\Users\\Anis\\Downloads\\Library Book Tracker\\library book tracker\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A31857-EDC5-4014-A011-E4A2A140024E}|Library Book Tracker\\Library Book Tracker.csproj|solutionrelative:library book tracker\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1954A88-8163-4ED2-86FA-D0EA523517D3}|BLL\\BLL.csproj|C:\\Users\\Anis\\Downloads\\Library Book Tracker\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1954A88-8163-4ED2-86FA-D0EA523517D3}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:30:33.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:27:59.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Models\\Book.cs",
+              "RelativeToolTip": "DAL\\Models\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:28:47.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Repos\\BookRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Repos\\BookRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:55:41.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\Library Book Tracker\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library Book Tracker\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\Library Book Tracker\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library Book Tracker\\Controllers\\BookController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:08:12.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "DAL\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\LibraryContext.cs",
+              "RelativeToolTip": "DAL\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:22:51.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\Library Book Tracker\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Library Book Tracker\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\Library Book Tracker\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Library Book Tracker\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:32:08.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\BLL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\BLL\\Services\\BookService.cs",
+              "RelativeToolTip": "BLL\\Services\\BookService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:02:22.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202501201437243_InitDb.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Migrations\\202501201437243_InitDb.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501201437243_InitDb.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Migrations\\202501201437243_InitDb.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501201437243_InitDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:49:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202501211234455_InitDb1.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Migrations\\202501211234455_InitDb1.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501211234455_InitDb1.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Migrations\\202501211234455_InitDb1.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501211234455_InitDb1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:49:51.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:49:59.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\BLL\\DTOs\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\BLL\\DTOs\\LoginRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:25:34.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\Library Book Tracker\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Library Book Tracker\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\Library Book Tracker\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Library Book Tracker\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:25:12.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\BLL\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\BLL\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:07:49.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Anis\\Downloads\\Library Book Tracker\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:22:39.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

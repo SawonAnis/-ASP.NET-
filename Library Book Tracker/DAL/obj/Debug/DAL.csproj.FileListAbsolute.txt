@@ -1,0 +1,15 @@
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\bin\Debug\DAL.dll.config
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\bin\Debug\DAL.dll
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\bin\Debug\DAL.pdb
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\obj\Debug\DAL.dll
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\obj\Debug\DAL.pdb
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\obj\Debug\DAL.Migrations.InitDb.resources
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Anis\Downloads\Library Book Tracker\DAL\obj\Debug\DAL.Migrations.InitDb1.resources
